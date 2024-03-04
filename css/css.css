@@ -90,7 +90,7 @@ html{scroll-behavior: smooth;}
 
 #section2{
    
-    background-image: url('./css/images/bg2.jpg');
+    background-image: url('../css/images/bg2.jpg');
     background-size: cover;
     background-position: center;
     height: 100vh;
